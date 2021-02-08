@@ -1,4 +1,4 @@
-# Text-classification project
+# Text classification project
 
 For this project I use the Cornell University Movie Review polarity dataset v2.0 obtained from http://www.cs.cornell.edu/people/pabo/movie-review-data/.
 
